@@ -1808,6 +1808,10 @@ input, select, textarea {
 		margin: 0 0 1em 0;
 	}
 
+.typeform-widget{
+	margin: 0;
+}
+
 	input[type="text"],
 	input[type="password"],
 	input[type="email"],
